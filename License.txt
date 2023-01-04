@@ -8,4 +8,4 @@ https://www.udemy.com/course/learn-c-sharp-programming-in-ten-easy-steps/#review
 
 and on the materials available freely on the Internet.
 
-Selenium IDE Project is made solely by me.
+Selenium IDE Projects are made solely by me.
