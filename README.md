@@ -1,2 +1,2 @@
 # testowe
-Testowe repozytorium publiczne Test Aneta ABC
+Test public repository Test Aneta ABC
